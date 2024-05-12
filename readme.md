@@ -1,4 +1,4 @@
-### My code for UC Berkeley's Esolang Decal, Spring 2024!
+### My code for UC Berkeley's Esolang Decal (CS 198-138), Spring 2024!
 
 
 **syntax highlighting plugins for nvim**:
